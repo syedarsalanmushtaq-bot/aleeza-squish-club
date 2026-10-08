@@ -1,0 +1,17 @@
+{
+  "name": "Aleeza Squish Club",
+  "short_name": "Squish Club",
+  "description": "A mystery-box game: read the clues, pick the squishy, build a collection.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4EEE8",
+  "theme_color": "#D9C7EF",
+  "lang": "en-GB",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
